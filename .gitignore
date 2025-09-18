@@ -1,0 +1,21 @@
+# Python 
+venv/ 
+__pycache__/ 
+*.pyc 
+*.pyo 
+*.pyd 
+Режим вывода команд на экран (ECHO) включен.
+# Jupyter 
+.ipynb_checkpoints/ 
+Режим вывода команд на экран (ECHO) включен.
+# Data 
+data/ 
+*.csv 
+*.xlsx 
+Режим вывода команд на экран (ECHO) включен.
+# OS files 
+.DS_Store 
+Thumbs.db 
+Режим вывода команд на экран (ECHO) включен.
+# Env 
+.env 
